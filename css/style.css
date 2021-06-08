@@ -1,0 +1,15 @@
+.pics{
+    background-image: url("../img/pattern.png");
+    background-color:blue;
+    background-repeat: repeat;
+    background-size: 500px;
+    height: 120px;
+    
+}
+#log{
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+}
+
+    
