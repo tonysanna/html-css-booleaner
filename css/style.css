@@ -11,5 +11,34 @@
     width: 150px;
     margin-top: 20px;
 }
-
+.title {
+    color: gray;
+    font-size: 20px;
+}
+.title span {
+    color: blue;
+}
+.title p {
+    font-size: 15px;
+    margin-top: 0px;
+}
+.small{
+    font-style: oblique;
+    margin-top: 0px;
+    margin-bottom: 0px;
     
+}
+.mark{
+    background-color: yellow
+}
+.lista1{
+    border-collapse: collapse;
+}
+.tabella{
+    background-color: lightskyblue;
+    color: white;
+}
+.tabella1{
+    background-color: blue;
+}
+
